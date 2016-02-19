@@ -1,0 +1,20 @@
+actuate: [1.8.6]
+box2d: [1.2.3]
+debugger: [1.0.4]
+flixel-addons: [2.0.0] 1.1.1
+flixel-ui: [2.0.0] 1.0.2
+flixel: [4.0.0] 3.3.12
+format: [3.2.1]
+haxelib_client: [3.2.0-rc.3]
+haxeui: [1.8.16] 1.8.10
+hscript: [2.0.5]
+hxcpp: [3.2.205]
+hxtelemetry: [0.3.3]
+layout: [1.2.1]
+lime-samples: [2.6.0]
+lime: [2.9.0] 2.8.3
+nape: [2.0.19]
+openfl-samples: [3.3.1]
+openfl: 3.5.3 [3.6.0]
+poly2trihx: [0.1.4]
+swf: 2.1.6 [2.2.0]

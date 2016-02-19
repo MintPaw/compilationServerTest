@@ -1,0 +1,43 @@
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/geom/Matrix.hx:513: characters 3-13 : Cannot inline a not final return
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display/Graphics.hx:36: lines 36-933 : Defined in this class
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/geom/Matrix.hx:530: characters 3-13 : Cannot inline a not final return
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display/Graphics.hx:36: lines 36-933 : Defined in this class
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/geom/Matrix.hx:513: characters 3-13 : Cannot inline a not final return
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display/Bitmap.hx:23: lines 23-251 : Defined in this class
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/geom/Matrix.hx:530: characters 3-13 : Cannot inline a not final return
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display/Bitmap.hx:23: lines 23-251 : Defined in this class
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/geom/Matrix.hx:513: characters 3-13 : Cannot inline a not final return
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display/Bitmap.hx:23: lines 23-251 : Defined in this class
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/geom/Matrix.hx:530: characters 3-13 : Cannot inline a not final return
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display/Bitmap.hx:23: lines 23-251 : Defined in this class
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/geom/Matrix.hx:513: characters 3-13 : Cannot inline a not final return
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/text/TextField.hx:36: lines 36-1913 : Defined in this class
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/geom/Matrix.hx:530: characters 3-13 : Cannot inline a not final return
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/text/TextField.hx:36: lines 36-1913 : Defined in this class
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/geom/Matrix.hx:513: characters 3-13 : Cannot inline a not final return
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/text/TextField.hx:36: lines 36-1913 : Defined in this class
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/geom/Matrix.hx:530: characters 3-13 : Cannot inline a not final return
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/text/TextField.hx:36: lines 36-1913 : Defined in this class
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/geom/Matrix.hx:513: characters 3-13 : Cannot inline a not final return
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/text/TextField.hx:36: lines 36-1913 : Defined in this class
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/geom/Matrix.hx:530: characters 3-13 : Cannot inline a not final return
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/text/TextField.hx:36: lines 36-1913 : Defined in this class
+/home/mintpaw/tools/haxe/std/UInt.hx:281: characters 3-28 : Cannot inline a not final return
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display3D/Context3D.hx:24: lines 24-1091 : Defined in this class
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display3D/Context3D.hx:884: characters 97-119 : Recursive implicit cast
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display3D/Context3D.hx:889: characters 97-119 : Recursive implicit cast
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display3D/Context3D.hx:894: characters 98-120 : Recursive implicit cast
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display3D/Context3D.hx:943: characters 98-120 : Recursive implicit cast
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display3D/Context3D.hx:948: characters 98-120 : Recursive implicit cast
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display3D/Context3D.hx:953: characters 98-120 : Recursive implicit cast
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display3D/Context3D.hx:958: characters 99-121 : Recursive implicit cast
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display3D/Context3D.hx:997: characters 104-126 : Recursive implicit cast
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display3D/Context3D.hx:1002: characters 104-126 : Recursive implicit cast
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display3D/Context3D.hx:1007: characters 104-126 : Recursive implicit cast
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display3D/Context3D.hx:1012: characters 105-127 : Recursive implicit cast
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/geom/Matrix.hx:513: characters 3-13 : Cannot inline a not final return
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display/DisplayObject.hx:43: lines 43-1460 : Defined in this class
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display/DisplayObject.hx:1156: lines 1156-1163 : Missing return Float
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/geom/Matrix.hx:530: characters 3-13 : Cannot inline a not final return
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display/DisplayObject.hx:43: lines 43-1460 : Defined in this class
+/home/mintpaw/.dotfiles/tools/haxe/lib/openfl/3,6,0/openfl/display/DisplayObject.hx:1166: lines 1166-1173 : Missing return Float
